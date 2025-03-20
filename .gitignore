@@ -1,0 +1,3 @@
+# Ignorer les fichiers de configuration JPA/Hibernate
+src/main/resources/META-INF/hibernate.cfg.xml
+
